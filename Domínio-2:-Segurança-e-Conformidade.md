@@ -1,0 +1,1 @@
+30% do conteúdo pontuado
