@@ -1,0 +1,1 @@
+24% do conteúdo pontuado
