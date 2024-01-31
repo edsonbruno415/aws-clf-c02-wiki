@@ -1,5 +1,3 @@
-## Formação AWS Cloud Practitioner (CLF-C02)
-
 O exame AWS Certified Cloud Practitioner (CLF-C02) destina-se a pessoas que podem demonstrar efetivamente conhecimento geral da nuvem AWS, independentemente do cargo específico.
 
 O exame valida a capacidade de um candidato de concluir as seguintes tarefas:
