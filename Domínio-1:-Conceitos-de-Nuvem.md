@@ -1,6 +1,6 @@
 # Benefícios da Nuvem AWS
 
-### Aspectos Econômicos do Dimensionamento 
+## Aspectos Econômicos do Dimensionamento 
 
 Um dos principais benefícios da nuvem AWS é a economia de custos que ela proporciona para os seus clientes. Mas como isso é possível? Bom, para entender isso, vamos comparar a nuvem AWS com um modelo tradicional de computação, onde você precisa comprar, instalar, configurar e manter os seus próprios servidores, redes, softwares e outros recursos de TI. Nesse modelo, você tem que investir um alto valor inicial para adquirir esses recursos, além de arcar com os custos de operação, manutenção, atualização, segurança e suporte. Além disso, você tem que estimar a demanda futura e provisionar os recursos de acordo com essa estimativa, o que pode gerar desperdício de recursos se a demanda for menor do que o esperado, ou falta de recursos se a demanda for maior do que o esperado. Ou seja, nesse modelo, você tem que pagar por recursos que você pode não usar, ou que podem não ser suficientes para atender as suas necessidades. 
 
@@ -10,7 +10,7 @@ Esse modelo é chamado de dimensionamento, e ele é um dos aspectos econômicos 
 
 Para ilustrar melhor esse conceito, vamos usar uma analogia. Imagine que você tem uma loja física que vende sorvetes. No verão, a demanda por sorvetes é muito alta, e você precisa de mais funcionários, mais freezers, mais estoque e mais espaço para atender os seus clientes. No inverno, a demanda por sorvetes é muito baixa, e você precisa de menos funcionários, menos freezers, menos estoque e menos espaço para atender os seus clientes. Se você tivesse que comprar e manter todos esses recursos o ano todo, você teria um alto custo fixo, e um baixo retorno sobre o investimento. Mas se você pudesse alugar esses recursos apenas quando precisasse, e pelo tempo que precisasse, você teria um baixo custo variável, e um alto retorno sobre o investimento. Isso é o que a nuvem AWS faz por você: ela te permite alugar os recursos de TI que você precisa, quando você precisa, e pelo tempo que você precisa, pagando apenas pelo que você usa. Assim, você pode economizar dinheiro e aumentar a sua lucratividade. 
 
-### Benefícios da Infraestrutura Global 
+## Benefícios da Infraestrutura Global 
 
 Outro benefício da nuvem AWS é a infraestrutura global que ela oferece para os seus clientes. Mas o que isso significa? Bom, para entender isso, vamos ver como a AWS organiza os seus recursos de TI em diferentes regiões e zonas de disponibilidade. Uma região é uma área geográfica onde a AWS possui um conjunto de data centers, que são locais onde os servidores, redes, armazenamentos e outros recursos de TI são armazenados e operados. Uma zona de disponibilidade é uma parte isolada de uma região, onde a AWS possui um ou mais data centers, que são conectados por redes de alta velocidade e baixa latência. A AWS possui atualmente [33 regiões e 105 zonas de disponibilidade ao redor do mundo](https://aws.amazon.com/pt/about-aws/global-infrastructure), e está constantemente expandindo a sua presença global. 
 
@@ -20,7 +20,7 @@ Para ilustrar melhor esse conceito, vamos usar outra analogia. Imagine que você
 
 Agora, imagine que você pudesse abrir um restaurante em qualquer país em questão de minutos, sem precisar de nenhum processo burocrático ou logístico. Imagine que você pudesse usar os ingredientes, equipamentos e funcionários que já estão disponíveis nesse país, sem precisar transportar nada. Imagine que você pudesse personalizar o seu cardápio e o seu serviço de acordo com as preferências e as normas dos clientes locais, sem precisar fazer muita pesquisa ou treinamento. Imagine que você pudesse garantir a qualidade e a consistência da sua comida, sem depender de fornecedores externos. Isso é o que a nuvem AWS faz por você: ela te permite abrir um “restaurante virtual” em qualquer região ou zona de disponibilidade da AWS, usando os recursos de TI que já estão disponíveis nesse local, e personalizando os seus serviços de acordo com as necessidades dos seus usuários ou clientes. Assim, você pode expandir o seu alcance global e oferecer uma experiência rápida e satisfatória. 
 
-### Vantagens da Alta Disponibilidade, Elasticidade e Agilidade 
+## Vantagens da Alta Disponibilidade, Elasticidade e Agilidade 
 
 Além da economia de custos e da infraestrutura global, a nuvem AWS também oferece outras vantagens para os seus clientes, como a alta disponibilidade, a elasticidade e a agilidade. Vamos ver o que cada uma dessas vantagens significa e como elas podem beneficiar o seu negócio. 
 
