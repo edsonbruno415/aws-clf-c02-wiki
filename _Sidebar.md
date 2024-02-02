@@ -2,8 +2,8 @@
 
 ### Domínio 1: Conceitos de Nuvem
 * [1.1. Conheça os Benefícios da Nuvem AWS][1.1]
-* [1.2. Introdução ao AWS Well‐Architected Framework][1.2]
-* [1.3. Estratégias de Migração Para a Nuvem Com AWS CAF][1.3]
+* [1.2. Introdução ao AWS WAF][1.2]
+* [1.3. Estratégias de Migração Para a Nuvem][1.3]
 * [1.4. Aspectos Econômicos da Nuvem AWS][1.4]
 ### Domínio 2: Segurança e Conformidade
 * [2.1. Modelo de Responsabilidade Compartilhada da AWS][2.1]
