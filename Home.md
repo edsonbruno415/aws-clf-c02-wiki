@@ -8,3 +8,5 @@ Material de estudos elaborado pela DIO em parceria com a AWS para o exame **AWS 
 * Compreender as práticas de cobrança, dos aspectos econômicos e de custos da nuvem AWS.
 * Descrever e posicionar os principais serviços da AWS, incluindo computação, rede, banco de dados e armazenamento.
 * Identificar serviços da AWS para casos de uso comuns.
+
+Referência: [AWS Certified Cloud Practitioner](https://github.com/digitalinnovationone/aws-clf-c02/files/14139841/AWS.Certified.Cloud.Practitioner.certificate.pdf)
