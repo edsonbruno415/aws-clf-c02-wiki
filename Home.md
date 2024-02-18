@@ -1,4 +1,4 @@
-# Bem-vindo à Wiki do Guia de Estudos DIO: AWS Cloud Practitioner
+# Bem-vindo à Wiki do Guia DIO da AWS Cloud Practitioner
 
 Esta Wiki é um recurso colaborativo para o estudo e preparação para o exame AWS Certified Cloud Practitioner (CLF-C02). Encorajamos a troca de informações e experiências entre especialistas e entusiastas da AWS.
 
