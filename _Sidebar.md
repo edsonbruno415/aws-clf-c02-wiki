@@ -13,7 +13,7 @@
 
 #### Domínio 4: Cobrança, Preços e Suporte (12%)
 
-[1.1]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/1.1.-Conhe%C3%A7a-os-Benef%C3%ADcios-da-Nuvem-AWS
+[1.1]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/1.1.-Proposta-de-Valor-e-Benef%C3%ADcios-da-Nuvem-AWS
 [1.2]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/1.2.-Introdu%C3%A7%C3%A3o-ao-AWS-Well%E2%80%90Architected-Framework
 [1.3]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/1.3.-Estrat%C3%A9gias-de-Migra%C3%A7%C3%A3o-Para-a-Nuvem-Com-AWS-CAF
 [1.4]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/1.4.-Aspectos-Econ%C3%B4micos-da-Nuvem-AWS
