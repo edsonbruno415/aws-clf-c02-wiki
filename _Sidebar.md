@@ -1,7 +1,7 @@
 # DIO: AWS CLF-C02
 
 #### Domínio 1: Conceitos de Nuvem (24%)
-* [1.1. Conheça os Benefícios da Nuvem AWS][1.1]
+* [1.1. Proposta de Valor e Benefícios da AWS][1.1]
 * [1.2. Introdução ao AWS WAF][1.2]
 * [1.3. Estratégias de Migração Para a Nuvem][1.3]
 * [1.4. Aspectos Econômicos da Nuvem AWS][1.4]
