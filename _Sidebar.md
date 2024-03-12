@@ -8,7 +8,7 @@
 
 #### Domínio 2: Segurança e Conformidade (30%)
 * [2.1. Modelo de Responsabilidade][2.1]
-* [2.2. Segurança, Governança e Conformidade][2.1]
+* [2.2. Segurança, Governança e Conformidade][2.2]
 
 #### Domínio 3: Tecnologia e Serviços (34%)
 
