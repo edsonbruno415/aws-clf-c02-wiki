@@ -13,6 +13,7 @@
 * [2.4. Componentes e Recursos de Segurança][2.4]
 
 #### Domínio 3: Tecnologia e Serviços (34%)
+* [3.1. Métodos de Implantação e Operação][3.1]
 
 #### Domínio 4: Cobrança, Preços e Suporte (12%)
 
@@ -24,3 +25,4 @@
 [2.2]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/2.2.-Seguran%C3%A7a,-Governan%C3%A7a-e-Conformidade-na-Nuvem-AWS
 [2.3]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/2.3.-Recursos-de-Gerenciamento-de-Acesso-da-AWS
 [2.4]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/2.4.-Componentes-e-Recursos-de-Seguran%C3%A7a-na-AWS
+[3.1]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/3.1.-M%C3%A9todos-de-Implanta%C3%A7%C3%A3o-e-Opera%C3%A7%C3%A3o
