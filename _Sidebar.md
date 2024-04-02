@@ -15,7 +15,7 @@
 #### Domínio 3: Tecnologia e Serviços (34%)
 * [3.1. Métodos de Implantação e Operação][3.1]
 * [3.2. Infraestrutura Global e Conectividade][3.2]
-* [3.3. Serviços de Computação e BD][3.3]
+* [3.3. Serviços de Computação e BDs][3.3]
 
 #### Domínio 4: Cobrança, Preços e Suporte (12%)
 
