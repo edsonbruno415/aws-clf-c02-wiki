@@ -22,6 +22,7 @@
 #### Domínio 4: Cobrança, Preços e Suporte (12%)
 * [4.1. Modelos de Preços da AWS][4.1]
 * [4.2. Cobrança, Orçamento e Custos][4.2]
+* [4.3. Recursos Técnicos e Suporte][4.3]
 
 [1.1]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/1.1.-Proposta-de-Valor-e-Benef%C3%ADcios-da-Nuvem-AWS
 [1.2]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/1.2.-Introdu%C3%A7%C3%A3o-ao-AWS-Well%E2%80%90Architected-Framework
@@ -38,3 +39,4 @@
 [3.5]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/3.5.-Servi%C3%A7os-Especializados-da-AWS
 [4.1]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/4.1.-Modelos-de-Pre%C3%A7os-da-AWS
 [4.2]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/4.2.-Gerenciamento-de-Cobran%C3%A7a,-Or%C3%A7amento-e-Custos
+[4.3]: https://github.com/digitalinnovationone/aws-clf-c02/wiki/4.3.-Recursos-T%C3%A9cnicos-da-AWS-e-as-Op%C3%A7%C3%B5es-do-AWS-Support
