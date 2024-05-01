@@ -1,4 +1,4 @@
-# DIO: AWS CLF-C02
+# DIO: AWS CLF-C02 - AWS Practitioner
 
 #### Domínio 1: Conceitos de Nuvem (24%)
 * [1.1. Proposta de Valor e Benefícios da AWS][1.1]
